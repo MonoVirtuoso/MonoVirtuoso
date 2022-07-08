@@ -1,16 +1,12 @@
-### Hi there 👋
+### Eyy, what's up 👋
 
-<!--
-**MonoVirtuoso/MonoVirtuoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The name's Aqheel, I'm currently a student taking a course in Bachelors of Computer Science at Taylor's University!
+My plans for this GitHub include but not limited to: storage and personal projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on — TBA
+- 🌱 I’m currently learning — Java, C, C++
+- 👯 I’m looking to collaborate on — TBA
+- 🤔 I’m looking for help with — TBA
+- ⚡ Fun fact — Music is one of the few things I can't live without
+- 🔥 My hobbies — Dancing, Singing, Gaming, Music, Chess, Mixology
+- 💬 HMU anytime 
