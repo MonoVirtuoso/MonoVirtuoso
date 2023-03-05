@@ -9,4 +9,4 @@ My plans for this GitHub include but not limited to: storage and personal projec
 - 🤔 I’m looking for help with — TBA
 - ⚡ Fun fact — Music is one of the few things I can't live without
 - 🔥 My hobbies — Dancing, Singing, Gaming, Music, Chess, Mixology
-- 💬 HMU anytime 
+- 💬 HMU anytime - Discord: MonoVirtuoso#5404
